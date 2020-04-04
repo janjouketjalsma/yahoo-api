@@ -1,0 +1,12 @@
+# # FeedItemServiceMultipleFeedItemAttribute
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**feedAttributeValues** | [**\Yahoo\Model\FeedItemServiceFeedAttributeValue[]**](FeedItemServiceFeedAttributeValue.md) |  | [optional] 
+**isRemove** | [**\Yahoo\Model\FeedItemServiceIsRemove**](FeedItemServiceIsRemove.md) |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
+
